@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Noene99
 - 👀 I’m interested in coding, good food and people.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on a website for the restaurant I work.
+- 💞️ I’m looking to collaborate to make awesome designs for entrepreneurs.
 - 📫 How to reach me Sandra from Beverwijk.
-- 😄 Pronouns: -
 - ⚡ Fun fact: ...
 
 <!---
